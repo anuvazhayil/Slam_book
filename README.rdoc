@@ -7,7 +7,7 @@ First you have to install Ruby on Rails in your system.
 For reference visit the following link:
 http://captanu.wordpress.com/2014/04/09/ruby-on-rails/
  
-After completing the installation run the run the server in your system using the following command:
+After completing the installation run the server in your system using the following command:
 rails server
 
 Open localhost:3000 in your browser...
